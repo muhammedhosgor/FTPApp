@@ -1,0 +1,11 @@
+C:\Users\90552\source\repos\FTPApp\FTPApp\bin\Debug\FTPApp.exe.config
+C:\Users\90552\source\repos\FTPApp\FTPApp\bin\Debug\FTPApp.exe
+C:\Users\90552\source\repos\FTPApp\FTPApp\bin\Debug\FTPApp.pdb
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.Properties.Resources.resources
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.exe
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.pdb
+C:\Users\90552\source\repos\FTPApp\FTPApp\obj\Debug\FTPApp.FtpAppForm.resources
